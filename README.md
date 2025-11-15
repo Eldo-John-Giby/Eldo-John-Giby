@@ -9,20 +9,51 @@
 
 ---
 
-## About Me  
-I’m a Computer Science undergrad in India focused on building AI/ML-driven systems at scale—especially retrieval-augmented generation (RAG), backend pipelines, and algorithmic trading infrastructure.  
-My Android work is a side venture, allowing me to apply mobile front-ends when needed, but my core efforts lie in data, automation, and intelligent systems.
+## 🚀 Featured Projects  
 
-- Architecting and building RAG pipelines: document loaders, embeddings, vector stores, and QA chains  
-- Developing backend systems using Python, FastAPI, asyncio, MySQL, and cloud-ready tooling  
-- Building algorithmic trading bots: real-time data ingestion, Renko chart logic, multi-stock orchestration, live decisions  
-- Mobile/Android (Jetpack Compose, Kotlin Multiplatform) for end-to-end system prototypes
+### 1️⃣ [AI-Powered Document Analysis System](https://github.com/Eldo-John-Giby/AI-Powered-Document-Analysis-System)
+**Stack:** Python · FastAPI · LangChain · Weaviate · Voyage AI  
+**Description:** Engineered a context-aware RAG pipeline for insurance Q&A, reducing response latency by 40% and improving precision by 18%.  
+**Highlights:**  
+- Relevance optimization using reranking and query expansion (+22% retrieval quality)  
+- Production-ready FastAPI deployment with sub-3s response time  
+- High interpretability for downstream analytics  
 
 ---
 
-## Core Tech Stack  
+### 2️⃣ [Verdicto AI — Multilingual Legal Assistant](https://github.com/Eldo-John-Giby/Verdicto-AI)
+**Stack:** Python · RAG · LangChain · Transformers  
+**Description:** Built a legal AI assistant improving case retrieval accuracy by 30% and reducing latency by 35%.  
+**Highlights:**  
+- Semantic search + multilingual support (4 Indian languages)  
+- Defined roadmap from 20+ user interviews, improving user task efficiency by 25%  
+- Scalable RAG architecture for legal Q&A  
 
-<p align="right">
+---
+
+### 3️⃣ [Sentiment-Enhanced News Trading Bot](https://github.com/Eldo-John-Giby/Sentiment-Enhanced-News-Trading-Bot-)
+**Stack:** Python · NLP · Fyers API · AsyncIO · FinBERT · VADER  
+**Description:** Contrarian trading engine leveraging sentiment analysis on news and social media, achieving 68% signal precision on live data.  
+**Highlights:**  
+- Asynchronous news ingestion (RSS, Twitter, Google) processing 2K+ items/day  
+- GARCH volatility-based risk model boosting Sharpe ratio by +0.25  
+- Real-time trading signals and automated execution  
+
+---
+
+### 4️⃣ [Exploratory Data Analysis & Dashboard — Indian Startups Dataset](https://github.com/Eldo-John-Giby/Exploratory-Data-Analysis-Dashboard-Indian-Startups-Dataset)
+**Stack:** Python · Pandas · SQL · Power BI  
+**Description:** Cleaned and analyzed 5K+ startup funding records (2015–2024) to provide actionable insights on trends and investment patterns.  
+**Highlights:**  
+- Interactive Power BI dashboard highlighting sectoral trends & regional clusters  
+- Automated data cleaning & aggregation pipeline  
+- Insights for stakeholders and analysts  
+
+---
+
+## 🛠 Core Tech Stack  
+
+<p align="center">
 
 <b>Backend & AI/ML</b><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -69,25 +100,28 @@ My Android work is a side venture, allowing me to apply mobile front-ends when n
 
 ---
 
-## Highlighted Projects  
-- **RAG-Driven Insurance QA System** – End-to-end pipeline using document loaders, embeddings, Weaviate vector store, reranker & FastAPI backend  
-- **Intraday Trading Bot (Renko Based)** – Python automation for live multi-stock trading: price streaming, dynamic thresholds, pickle/state management, MySQL logging  
-- **Market Simulator & Live Tracker** – Framework to simulate trading with slippage, brokerage, intraday charge modelling; used for strategy development  
-- **Android MVP Framework (Side Business)** – Mobile apps using Compose + Kotlin Multiplatform; built fast front-ends for proof-of-concepts
-
----
-
-## GitHub Stats  
+## 📊 GitHub Stats  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eldo-John-Giby&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Eldo-John-Giby)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldo-John-Giby&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Eldo-John-Giby)
 
 ---
 
-## Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldo-john-giby)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eldo-John-Giby)  
-**Email:** eldojohngibh@gmail.com
+## 💬 About Me  
+I’m a Computer Science undergrad in India focused on building AI/ML-driven systems at scale—especially retrieval-augmented generation (RAG), backend pipelines, and algorithmic trading infrastructure.  
+Mobile/Android work is a side venture, applying front-ends when needed, but my core focus is **data, automation, and intelligent systems**.  
+
+- Architecting RAG pipelines: document loaders, embeddings, vector stores, and QA chains  
+- Developing backend systems using Python, FastAPI, asyncio, MySQL, and cloud-ready tooling  
+- Building algorithmic trading bots: real-time data ingestion, Renko chart logic, multi-stock orchestration, live decisions  
+- Mobile/Android (Jetpack Compose, Kotlin Multiplatform) for end-to-end system prototypes  
 
 ---
 
-*"Design systems that learn, scale and serve meaningful outcomes."*
+## 🤝 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldo-john-giby)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eldo-John-Giby)  
+**Email:** eldojohngibh@gmail.com  
+
+---
+
+*"Design systems that learn, scale, and serve meaningful outcomes."*
