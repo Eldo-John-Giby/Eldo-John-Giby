@@ -21,13 +21,15 @@
 
 ---
 
-### 2️⃣ [Verdicto AI — Multilingual Legal Assistant](https://github.com/Eldo-John-Giby/Verdicto-AI)
+### 2️⃣ [Verdicto AI — Multilingual Legal Assistant](https://verdicto-ai-v1.vly.site/)
 **Stack:** Python · RAG · LangChain · Transformers  
 **Description:** Built a legal AI assistant improving case retrieval accuracy by 30% and reducing latency by 35%.  
 **Highlights:**  
 - Semantic search + multilingual support (4 Indian languages)  
 - Defined roadmap from 20+ user interviews, improving user task efficiency by 25%  
 - Scalable RAG architecture for legal Q&A  
+
+<img src="https://github.com/Eldo-John-Giby/Verdicto-AI/blob/main/Screenshot%202025-11-16%20171637.png?raw=true" alt="Verdicto AI Screenshot" width="700"/>
 
 ---
 
@@ -41,7 +43,7 @@
 
 ---
 
-### 4️⃣ [Exploratory Data Analysis & Dashboard — Indian Startups Dataset](https://github.com/Eldo-John-Giby/Exploratory-Data-Analysis-Dashboard-Indian-Startups-Dataset)
+### 4️⃣ [Exploratory Data Analysis & Dashboard — Indian Startups Dataset](https://app.powerbi.com/groups/me/reports/f7d5a01e-74d2-47b7-b659-218f96364ac5/379aaaa127b9a4b5d30e?experience=power-bi)
 **Stack:** Python · Pandas · SQL · Power BI  
 **Description:** Cleaned and analyzed 5K+ startup funding records (2015–2024) to provide actionable insights on trends and investment patterns.  
 **Highlights:**  
