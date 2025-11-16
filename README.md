@@ -45,7 +45,7 @@
 - GARCH volatility-based risk model boosting Sharpe ratio by +0.25  
 - Real-time trading signals and automated execution
 
-  <img src="https://github.com/Eldo-John-Giby/AI-Powered-Document-Analysis-System/blob/main/Screenshot%202025-11-16%20173459.png?raw=true" alt="Verdicto AI Screenshot" width="700"/>
+<img src="https://github.com/Eldo-John-Giby/AI-Powered-Document-Analysis-System/blob/main/Screenshot%202025-11-16%20173459.png?raw=true" alt="Verdicto AI Screenshot" width="700"/>
 
 ---
 
