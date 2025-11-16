@@ -21,7 +21,7 @@
 
 ---
 
-### 2️⃣ Verdicto AI — Multilingual Legal Assistant
+### 2️⃣ [Verdicto AI — Multilingual Legal Assistant](https://github.com/Eldo-John-Giby/Verdicto-AI)
 **Stack:** Python · RAG · LangChain · Transformers  
 **Description:** Built a legal AI assistant improving case retrieval accuracy by 30% and reducing latency by 35%.  
 **Highlights:**  
@@ -30,9 +30,9 @@
 - Scalable RAG architecture for legal Q&A  
 
 **Live Demo:** [verdicto-ai-v1.vly.site](https://verdicto-ai-v1.vly.site/)  
-**Source Code:** [GitHub Repo](https://github.com/Eldo-John-Giby/Verdicto-AI)  
 
 <img src="https://github.com/Eldo-John-Giby/Verdicto-AI/blob/main/Screenshot%202025-11-16%20171637.png?raw=true" alt="Verdicto AI Screenshot" width="700"/>
+
 
 
 ---
