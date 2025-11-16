@@ -43,7 +43,9 @@
 **Highlights:**  
 - Asynchronous news ingestion (RSS, Twitter, Google) processing 2K+ items/day  
 - GARCH volatility-based risk model boosting Sharpe ratio by +0.25  
-- Real-time trading signals and automated execution  
+- Real-time trading signals and automated execution
+
+  <img src="[https://github.com/Eldo-John-Giby/Verdicto-AI/blob/main/Screenshot%202025-11-16%20171637.png?raw=true](https://github.com/Eldo-John-Giby/AI-Powered-Document-Analysis-System/blob/main/Screenshot%202025-11-16%20173459.png?raw=true)" alt="Verdicto AI Screenshot" width="700"/>
 
 ---
 
