@@ -49,6 +49,8 @@
 - Automated data cleaning & aggregation pipeline  
 - Insights for stakeholders and analysts  
 
+<img src="https://github.com/Eldo-John-Giby/Exploratory-Data-Analysis-Dashboard-Indian-Startups-Dataset/blob/master/Screenshot%202025-11-16%20170439.png?raw=true" alt="Power BI Dashboard Screenshot" width="700"/>
+
 ---
 
 ## 🛠 Core Tech Stack  
