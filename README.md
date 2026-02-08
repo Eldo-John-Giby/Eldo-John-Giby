@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Featured Projects  
+##                                               Featured Projects  
 
 ### 1️⃣ [AI-Powered Document Analysis System](https://github.com/Eldo-John-Giby/AI-Powered-Document-Analysis-System)
 **Stack:** Python · FastAPI · LangChain · Weaviate · Voyage AI  
