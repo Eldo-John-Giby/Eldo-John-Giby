@@ -11,7 +11,7 @@
 
 ##                                               Featured Projects  
 
-### 1️⃣ [AI-Powered Document Analysis System](https://github.com/Eldo-John-Giby/AI-Powered-Document-Analysis-System)
+###  [AI-Powered Document Analysis System](https://github.com/Eldo-John-Giby/AI-Powered-Document-Analysis-System)
 **Stack:** Python · FastAPI · LangChain · Weaviate · Voyage AI  
 **Description:** Engineered a context-aware RAG pipeline for insurance Q&A, reducing response latency by 40% and improving precision by 18%.  
 **Highlights:**  
@@ -21,7 +21,7 @@
 
 ---
 
-### 2️⃣ [Verdicto AI — Multilingual Legal Assistant](https://github.com/Eldo-John-Giby/Verdicto-AI)
+###  [Verdicto AI — Multilingual Legal Assistant](https://github.com/Eldo-John-Giby/Verdicto-AI)
 **Stack:** Python · RAG · LangChain · Transformers  
 **Description:** Built a legal AI assistant improving case retrieval accuracy by 30% and reducing latency by 35%.  
 **Highlights:**  
@@ -37,7 +37,7 @@
 
 ---
 
-### 3️⃣ [Sentiment-Enhanced News Trading Bot](https://github.com/Eldo-John-Giby/Sentiment-Enhanced-News-Trading-Bot-)
+###  [Sentiment-Enhanced News Trading Bot](https://github.com/Eldo-John-Giby/Sentiment-Enhanced-News-Trading-Bot-)
 **Stack:** Python · NLP · Fyers API · AsyncIO · FinBERT · VADER  
 **Description:** Contrarian trading engine leveraging sentiment analysis on news and social media, achieving 68% signal precision on live data.  
 **Highlights:**  
@@ -49,7 +49,7 @@
 
 ---
 
-### 4️⃣ [Exploratory Data Analysis & Dashboard — Indian Startups Dataset](https://app.powerbi.com/groups/me/reports/f7d5a01e-74d2-47b7-b659-218f96364ac5/379aaaa127b9a4b5d30e?experience=power-bi)
+###  [Exploratory Data Analysis & Dashboard — Indian Startups Dataset](https://app.powerbi.com/groups/me/reports/f7d5a01e-74d2-47b7-b659-218f96364ac5/379aaaa127b9a4b5d30e?experience=power-bi)
 **Stack:** Python · Pandas · SQL · Power BI  
 **Description:** Cleaned and analyzed 5K+ startup funding records (2015–2024) to provide actionable insights on trends and investment patterns.  
 **Highlights:**  
@@ -110,13 +110,13 @@
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eldo-John-Giby&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Eldo-John-Giby)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldo-John-Giby&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Eldo-John-Giby)
 
 ---
 
-## 💬 About Me  
+##  About Me  
 I’m a Computer Science undergrad in India focused on building AI/ML-driven systems at scale—especially retrieval-augmented generation (RAG), backend pipelines, and algorithmic trading infrastructure.  
 Mobile/Android work is a side venture, applying front-ends when needed, but my core focus is **data, automation, and intelligent systems**.  
 
@@ -127,7 +127,7 @@ Mobile/Android work is a side venture, applying front-ends when needed, but my c
 
 ---
 
-## 🤝 Connect With Me  
+##  Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldo-john-giby)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eldo-John-Giby)  
 **Email:** eldojohngibh@gmail.com  
